@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/struts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/jakarta-oro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-pool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-services.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

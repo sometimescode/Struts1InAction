@@ -1,0 +1,27 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "WEB-INF/lib/commons-beanutils.jar",
+        "WEB-INF/lib/commons-collections.jar",
+        "WEB-INF/lib/commons-dbcp.jar",
+        "WEB-INF/lib/commons-digester.jar",
+        "WEB-INF/lib/commons-fileupload.jar",
+        "WEB-INF/lib/commons-lang.jar",
+        "WEB-INF/lib/commons-logging.jar",
+        "WEB-INF/lib/commons-pool.jar",
+        "WEB-INF/lib/commons-resources.jar",
+        "WEB-INF/lib/commons-services.jar",
+        "WEB-INF/lib/commons-validator.jar",
+        "WEB-INF/lib/jakarta-oro.jar",
+        "WEB-INF/lib/struts.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\servlet.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\ant.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\commons-collections.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\commons-logging-api.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\jasper-compiler.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\jasper-runtime.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\naming-common.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\naming-factory.jar",
+        "c:\\Users\\reesa\\OneDrive\\Documents\\jakarta-tomcat-4.1.26-LE-jdk14\\common\\lib\\naming-resources.jar"
+    ]
+}

@@ -1,0 +1,1 @@
+The source for Java packages can be placed here.

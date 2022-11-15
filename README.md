@@ -7,3 +7,5 @@ https://stackoverflow.com/questions/9193228/compile-error-package-javax-servlet-
 This fixed ant not building. It builds now.
 2. In VSCODE, under JAVA PROJECTS, you can add libraries that vscode should be able to recognize. 
 This fixes red underline issues. (Reference your project's struts.jar and tomcat's common\lib\servlet.jar).
+
+You were last on page: 104

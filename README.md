@@ -9,3 +9,7 @@ This fixed ant not building. It builds now.
 This fixes red underline issues. (Reference your project's struts.jar and tomcat's common\lib\servlet.jar).
 
 You were last on page: 104
+
+Apache Ant 1.8.4
+Apache Maven 3.8.5
+Jakarta Tomcat 4.1.26 LE JDK114
